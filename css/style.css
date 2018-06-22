@@ -217,17 +217,17 @@ header a:hover{
 
 
 #box1{
-  background: url('../img/aboutbg.png') no-repeat;
+  background: url('../images/aboutbg.png') no-repeat;
   background-color: #ADF0AD;
   background-position: center;
 }
 #box2{
-  background: url('../img/unitsbg.png') no-repeat;
+  background: url('../images/unitsbg.png') no-repeat;
   background-color: #EA8282;
   background-position: center;
 }
 #box3{
-  background: url('../img/projectsbg.png') no-repeat;
+  background: url('../images/projectsbg.png') no-repeat;
   background-color: #E8BF83;
   background-position: center;
 }
@@ -500,7 +500,7 @@ footer{
   width: 200px;
   height: 250px;
   display: inline-block;
-  background: url(../img/pdf.png) #EA8282 no-repeat;
+  background: url(../images/pdf.png) #EA8282 no-repeat;
   background-position: center;
 }
 
@@ -531,7 +531,7 @@ footer{
 
 #projects .abox_img{
   filter: blur(0.8px);
-  background: url(../img/campcanada_pre.png) #c00000 no-repeat;
+  background: url(../images/campcanada_pre.png) #c00000 no-repeat;
   background-blend-mode: luminosity;
   background-size: contain;
   background-position: center;
