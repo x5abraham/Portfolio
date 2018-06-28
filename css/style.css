@@ -30,6 +30,7 @@ header{
   position: fixed;
   width: 100%;
   top: 0;
+  box-shadow: rgba(0, 0, 0, 0.25) 0 5px 30px;
 }
 
 header a{
@@ -157,6 +158,9 @@ header a:hover{
   color: #fff;
   text-align: center;
   padding-top: 100px;
+  background: url('../images/showcasebg.png') no-repeat #145650;
+  background-size: cover;
+  background-blend-mode: soft-light;
 }
 
 #showcase h1{
@@ -427,6 +431,13 @@ footer{
   transition: box-shadow 0.4s;
   box-shadow: rgba(0, 0, 0, 0.5) 0 0px 15px ;
 }
+.skills_box img{
+  width: 25px;
+}
+.skills_box img:first-child{
+  margin-left: 10px;
+}
+
 
 /* Units Page */
 
